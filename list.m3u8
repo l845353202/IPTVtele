@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1 综合
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTINF:-1 ,CCTV-2 财经
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+#EXTINF:-1 ,CCTV-3 综艺
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+#EXTINF:-1 ,CCTV-4 中文国际
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+#EXTINF:-1 ,CCTV-5 体育
+http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+#EXTINF:-1 ,CCTV-6 电影
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+#EXTINF:-1 ,CCTV-7 国防军事
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+#EXTINF:-1 ,CCTV-8 电视剧
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+#EXTINF:-1 ,CCTV-9 记录
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+#EXTINF:-1 ,CCTV-10 科教
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+#EXTINF:-1 ,CCTV-11 戏曲
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+#EXTINF:-1 ,CCTV-13 新闻
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 ,CCTV-14 少儿
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+#EXTINF:-1 ,CCTV-15 音乐
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+#EXTINF:-1 ,北京卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/btv1_2/index.m3u8
+#EXTINF:-1 ,北京影视
+http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/btv4_2/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+#EXTINF:-1 ,广东卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+#EXTINF:-1 ,江苏卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1 ,重庆卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+#EXTINF:-1 ,四川卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+#EXTINF:-1 ,山东卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+#EXTINF:-1 ,天津卫视
+http://219.153.252.50/PLTV/88888888/224/3221225539/chunklist.m3u8
+#EXTINF:-1 ,山西卫视
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226174/3.m3u8
+#EXTINF:-1 ,海南卫视
+http://stream1.hnntv.cn/lywsgq/sd/live.m3u8
+#EXTINF:-1 ,海南新闻频道
+http://stream3.hnntv.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 ,湖北卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+#EXTINF:-1 ,东南卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+#EXTINF:-1 ,河北卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+#EXTINF:-1 ,河南卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+#EXTINF:-1 ,浙江卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+#EXTINF:-1 ,安徽卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+#EXTINF:-1 ,江西卫视
+http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
